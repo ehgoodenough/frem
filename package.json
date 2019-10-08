@@ -1,0 +1,8 @@
+{
+  "name": "fitrem",
+  "version": "1.0.0",
+  "description": "Fits your css rem into a pixel responsive aspect-ratio.",
+  "author": "Andrew McPherson <@ehgoodenough>",
+  "main": "index.js",
+  "license": "ISC"
+}
