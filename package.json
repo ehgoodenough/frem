@@ -1,5 +1,5 @@
 {
-  "name": "fitrem",
+  "name": "frem",
   "version": "1.0.0",
   "description": "Fits your css rem into a pixel responsive aspect-ratio.",
   "author": "Andrew McPherson <@ehgoodenough>",
