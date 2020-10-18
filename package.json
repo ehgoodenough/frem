@@ -4,5 +4,9 @@
   "description": "Fits your css rem into a pixel responsive aspect-ratio.",
   "author": "Andrew McPherson <@ehgoodenough>",
   "main": "index.js",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ehgoodenough/frem"
+  }
 }
